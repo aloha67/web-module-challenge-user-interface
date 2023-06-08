@@ -1,5 +1,5 @@
 /*======= Create a new universal selector that changes the font color to: #3C373B */
-* {
+*{
   color: #3C373B;
 }
 
@@ -19,10 +19,10 @@ h2, h3, h4, h5, h6 {
   font-size: 30px;
 }
 p {
-  font-size: 16px;
-  font-family: roboto;
-  padding: 10px;
-  line-height: 1.4;
+    font-size: 16px;
+    font-family: roboto;
+    padding: 10px;
+    line-height: 1.4;
 }
 /*======= Create a selector for ALL p tags in the site to have the following styles:
 
